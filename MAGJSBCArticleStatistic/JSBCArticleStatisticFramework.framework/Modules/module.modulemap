@@ -1,0 +1,6 @@
+framework module JSBCArticleStatisticFramework {
+  umbrella header "JSBCArticleStatisticFramework.h"
+
+  export *
+  module * { export * }
+}
