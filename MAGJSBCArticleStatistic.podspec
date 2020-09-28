@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MAGJSBCArticleStatistic'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MAGJSBCArticleStatistic'
   s.description      = <<-DESC
 该sdk为各省融媒体要求地方各县市融媒体app接入埋点以及内容数据的API接口对接，用于获取客户端用户数据和内容数据.

@@ -54,6 +54,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (JSBCArticleStatisticUtil *)shareInstance;
 
++ (void)startLocation;
+
 /**
  * 初始化配置
  * @param appId 应用Id
